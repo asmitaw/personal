@@ -3504,8 +3504,8 @@
 				padding: 0 5em 0.1em 5em ;
 			}
 
-				#main > .inner > section {
-					padding: 5em 0 3em 0 ;
+				#main > .inner > section {  /*changing  5,0,3,0*/
+					padding: 1em 0 1em 0 ;
 				}
 
 		}
@@ -3819,7 +3819,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#header {
-				padding-top: 5em;
+				padding-top: 2em;
 			}
 
 		}
